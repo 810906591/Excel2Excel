@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel2Excel", "Excel2Excel\Excel2Excel.csproj", "{D6DF5208-9A63-4B1C-8373-497E90F56ECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel2Excel.Function", "Excel2Excel.Function\Excel2Excel.Function.csproj", "{AF3C1486-1038-4474-9DA4-43A3F2B643E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6DF5208-9A63-4B1C-8373-497E90F56ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DF5208-9A63-4B1C-8373-497E90F56ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DF5208-9A63-4B1C-8373-497E90F56ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DF5208-9A63-4B1C-8373-497E90F56ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3C1486-1038-4474-9DA4-43A3F2B643E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3C1486-1038-4474-9DA4-43A3F2B643E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3C1486-1038-4474-9DA4-43A3F2B643E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3C1486-1038-4474-9DA4-43A3F2B643E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66BE8BC4-B4FA-43A1-A2DA-56D69A46C285}
+	EndGlobalSection
+EndGlobal
