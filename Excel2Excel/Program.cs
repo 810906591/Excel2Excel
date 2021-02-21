@@ -19,7 +19,7 @@ namespace Excel2Excel
             //string str = "热敏机芯PT48D- （XGD专用）";
             //var m = Regex.Match(str, s);
 
-
+        
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
